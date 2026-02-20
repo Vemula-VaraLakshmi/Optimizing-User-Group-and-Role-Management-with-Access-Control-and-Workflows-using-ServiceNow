@@ -84,9 +84,6 @@ The final solution is deployed to production with structured change management, 
 
 ---
 
-```
-
----
 
 ## 🧩 Future Enhancements
 - Integration of **AI-based access recommendations** for user-role assignment.  
